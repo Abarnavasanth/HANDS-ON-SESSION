@@ -1,0 +1,6 @@
+Preprocessing the height-weight.csv dataset is performed by following the steps are considered as below 
+Handling the missing values, 
+Replace the missing values by using some simple descriptive statistics such as mean, median, constant value, and so on.
+Encoding the categorical values
+Feature Scaling
+Splitting the train and test dataset.
